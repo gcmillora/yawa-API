@@ -27,7 +27,7 @@ export default async function Home() {
                 API
               </h1>
               <p className='mt-8 text-lg lg:pr-10 text-center lg:text-left text-balance md:text-wrap'>
-                Identifying harmful content used to be a sluggish and costly process. But now, that's changed. Say hello to a rapid, cost-free, open-source profanity filter for your web applications.
+                Identifying harmful content used to be a sluggish and costly process. But now, that&apos;s changed. Say hello to a rapid, cost-free, open-source profanity filter for your web applications.
               </p>
 
               <ul className='mt-8 space-y-2 font-medium flex flex-col items-center sm:items-start'>
@@ -67,7 +67,7 @@ export default async function Home() {
       <section id='video-demo' className='bg-blue-50 grainy-light'>
         <div className='mx-auto max-w-6xl gap-6 pb-24 pt-6 sm:pb-32 lg:gap-x-8 lg:px-8 lg:py-40'>
           <h2 className='mx-auto text-balance text-5xl sm:text-6xl text-center font-bold leading-[4.25rem] tracking-tight max-w-2xl text-slate-900'>
-            There's a <span className='px-2 bg-red-500 text-white'>better</span>{' '}
+            There&apos;s a <span className='px-2 bg-red-500 text-white'>better</span>{' '}
             way
           </h2>
 
